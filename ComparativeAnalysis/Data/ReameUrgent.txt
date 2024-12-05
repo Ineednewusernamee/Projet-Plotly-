@@ -1,0 +1,6 @@
+Before running the notebook, include the two dataset -- the larger and the smaller ones -- using the following name : 
+
+- larger .json file : DatasetFull
+
+- smaller .json file : DatasetRecap
+
