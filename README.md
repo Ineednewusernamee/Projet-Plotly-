@@ -6,17 +6,10 @@
 #### 1. Global Overview (High-Level Insights)
    - Bar Chart: Top 10 keywords, locations, and organizations by frequency across the entire dataset.
    - Pie/Donut Chart: Proportional representation of categories (keywords, locations, organizations) in the dataset.
-   - Trend Line: Overall article count or keyword frequency over time (yearly/monthly trends).
 
 #### 2. Yearly Analysis
    - Bar Chart: Top keywords, locations, and organizations for each year.
-   - Stacked Bar Chart: Contribution of different categories (keywords, locations, etc.) to the total articles by year.
-   - Line Chart: Yearly trends in the top N keywords or entities.
-
-#### 3. Monthly Insights
-   - Line Chart: Day-wise trends of top keywords or organizations within a selected month.
-   - Heatmap: Day-of-month vs. keyword frequency for identifying activity spikes.
-   - Area Chart: Growth or decline of entity frequency over weeks in a month.
+   - Stacked Bar Chart: Contribution of different categories (keywords, locations, etc.) to the total articles by year
 
 ### Walid
 #### 4. Comparative Analysis
