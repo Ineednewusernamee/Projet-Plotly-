@@ -58,3 +58,11 @@
 - Add annotations to highlight significant trends or outliers in the graphs.
 - Use color schemes effectively to differentiate between categories and years.
 - Provide detailed tooltips to give users context while hovering over data points.
+
+
+
+### Topic Modeling: Group articles into topics.
+- Sentiment Analysis: Understand article tone over time.
+- Sankey Diagram: Show entity connections (e.g., keywords to locations).
+- Timeline Chart: Highlight key articles chronologically.
+- Keyword Heatmap: Frequency of specific keywords over time.
