@@ -1,0 +1,45 @@
+/* General Body Styling */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    font-family: Arial, sans-serif;
+}
+
+/* Header Styling */
+h1 {
+    font-size: 2.5rem;
+    color: #343a40; /* Dark gray */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Subheader Styling */
+h2 {
+    font-size: 2rem;
+    color: #495057; /* Slightly lighter gray */
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Card Styling for KPIs */
+.card {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Word Cloud Image */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+/* Dropdown Styling */
+label {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #495057;
+}
+
